@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": "14.18.1"
-  },
   "dependencies": {
     "@rails/webpacker": "5.4.0",
     "webpack": "^4.46.0",
