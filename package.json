@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node /app/javascript/packs/application.js"
   },
   "dependencies": {
     "@rails/webpacker": "5.4.0",
